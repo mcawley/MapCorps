@@ -10,6 +10,7 @@
 >#### [Teach OSM Tasking Manager](https://tasks.teachosm.org/)
 >#### [Missing Maps Tasking Manager](https://www.missingmaps.org/)
 >#### [MapRoulette Tasking Manager](https://www.maproulette.org/)
+>#### [OpenStreetMap US Tasking Manager](https://tasks.openstreetmap.us/)
 
 * * *
 #### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
